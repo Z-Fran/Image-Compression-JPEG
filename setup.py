@@ -242,7 +242,7 @@ if __name__ == '__main__':
         maintainer_email='openmmlab@gmail.com',
         keywords='computer vision, super resolution, video interpolation, '
         'inpainting, matting, SISR, RefSR, VSR, GAN, VFI',
-        url='https://github.com/open-mmlab/mmagic',
+        url='https://github.com/open-mmlab/mmediting',
         packages=find_packages(exclude=('configs', 'tools', 'demo')),
         include_package_data=True,
         classifiers=[
